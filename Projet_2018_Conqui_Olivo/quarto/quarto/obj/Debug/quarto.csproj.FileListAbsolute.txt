@@ -1,0 +1,7 @@
+C:\Users\Antoine\Desktop\Musique A TRIER\quarto\quarto\bin\Debug\quarto.exe.config
+C:\Users\Antoine\Desktop\Musique A TRIER\quarto\quarto\bin\Debug\quarto.exe
+C:\Users\Antoine\Desktop\Musique A TRIER\quarto\quarto\bin\Debug\quarto.pdb
+C:\Users\Antoine\Desktop\Musique A TRIER\quarto\quarto\obj\Debug\quarto.csprojAssemblyReference.cache
+C:\Users\Antoine\Desktop\Musique A TRIER\quarto\quarto\obj\Debug\quarto.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\Desktop\Musique A TRIER\quarto\quarto\obj\Debug\quarto.exe
+C:\Users\Antoine\Desktop\Musique A TRIER\quarto\quarto\obj\Debug\quarto.pdb
